@@ -1,3 +1,6 @@
 .item {
     color: chartreuse;
 }
+.item img {
+    width: 50px;
+}
