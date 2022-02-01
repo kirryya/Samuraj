@@ -1,4 +1,5 @@
 import React from "react";
+// @ts-ignore
 import s from './Post.module.css'
 
 
